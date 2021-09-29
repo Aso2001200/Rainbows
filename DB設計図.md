@@ -23,7 +23,7 @@
 
 |項目名|型|PK|NN|FK|
 |-----|--|--|--|--|
-|customer_code|varchar(50)|○|○||
+|custom_code|varchar(50)|○|○||
 |pass|varchar(50)||○||
 |name|varchar(20)||○||
 |address|varchar(100)||○||
@@ -38,7 +38,7 @@
 |-----|--|--|--|--|
 |category_id|int(11)|○|○||
 |name|varchar(20)||○||
-|reg_date|date||○||
+|registerday_date|date||○||
 
 ## m_items
 

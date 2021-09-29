@@ -11,7 +11,7 @@
 |和名|属性名|型|PK|NN|FK|
 |----|-----|--|--|--|--|
 |オーダー詳細ID|detail_id|bigint(20)|○|○||
-|オーダーID|ourder_id|bigint(20)|○|○|○|
+|オーダーID|order_id|bigint(20)|○|○|○|
 |商品コード|item_code|int(11)||○||
 |価格|price|int(11)||○||
 |巻数|volumenum|int(11)||○||

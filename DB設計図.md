@@ -17,6 +17,7 @@
 |order_id|bigint(20) |○|○|○|
 |item_code|int(11)||○||
 |price|int(11)||○||
+|volumnum|int(11)||○||
 |num|int(11)||○||
 
 ## m_customers
@@ -26,6 +27,7 @@
 |custom_code|varchar(50)|○|○||
 |pass|varchar(50)||○||
 |name|varchar(20)||○||
+|birthday|date||○||
 |address|varchar(100)||○||
 |tel|varchar(20)||○||
 |mail|varchar(100)||○||
